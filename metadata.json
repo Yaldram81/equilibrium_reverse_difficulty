@@ -1,0 +1,5 @@
+{
+  "name": "Reverse Difficulty: Equilibrium",
+  "description": "An adaptive rhythm-reaction game that rewards persistence through failure by lowering difficulty while punishing over-success with increased challenge.",
+  "requestFramePermissions": []
+}
